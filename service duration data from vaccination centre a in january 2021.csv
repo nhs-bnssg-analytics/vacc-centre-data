@@ -1,0 +1,406 @@
+service,duration
+vaccination,127
+vaccination,168
+vaccination,200
+vaccination,247
+vaccination,122
+vaccination,157
+vaccination,208
+vaccination,102
+vaccination,145
+vaccination,198
+vaccination,93
+vaccination,188
+vaccination,64
+vaccination,182
+vaccination,132
+vaccination,334
+vaccination,167
+vaccination,110
+vaccination,110
+vaccination,216
+vaccination,140
+vaccination,178
+vaccination,144
+vaccination,307
+vaccination,116
+vaccination,168
+vaccination,214
+vaccination,137
+vaccination,87
+vaccination,266
+vaccination,131
+vaccination,85
+vaccination,68
+vaccination,66
+vaccination,64
+vaccination,88
+vaccination,93
+vaccination,191
+vaccination,292
+vaccination,432
+vaccination,173
+vaccination,148
+vaccination,187
+vaccination,181
+vaccination,183
+vaccination,150
+vaccination,175
+vaccination,179
+vaccination,236
+vaccination,136
+vaccination,223
+vaccination,114
+vaccination,125
+vaccination,130
+vaccination,162
+vaccination,86
+vaccination,53
+vaccination,144
+vaccination,166
+vaccination,143
+vaccination,156
+vaccination,148
+vaccination,163
+vaccination,168
+vaccination,125
+vaccination,364
+vaccination,167
+vaccination,189
+vaccination,143
+vaccination,171
+combined,432
+combined,425
+combined,575
+combined,280
+combined,205
+combined,360
+combined,360
+combined,495
+combined,345
+combined,265
+combined,445
+vaccination,185
+vaccination,145
+vaccination,255
+vaccination,358
+vaccination,122
+vaccination,127
+vaccination,110
+vaccination,245
+vaccination,130
+vaccination,148
+vaccination,265
+vaccination,130
+vaccination,150
+vaccination,295
+vaccination,110
+vaccination,165
+vaccination,125
+vaccination,143
+vaccination,104
+vaccination,137
+vaccination,119
+vaccination,115
+vaccination,155
+vaccination,200
+vaccination,165
+vaccination,153
+vaccination,187
+vaccination,150
+vaccination,127
+vaccination,178
+vaccination,105
+vaccination,135
+vaccination,100
+clinical assessment,360
+clinical assessment,300
+clinical assessment,315
+clinical assessment,340
+clinical assessment,285
+clinical assessment,295
+clinical assessment,410
+clinical assessment,410
+clinical assessment,290
+clinical assessment,581
+clinical assessment,330
+clinical assessment,160
+clinical assessment,250
+clinical assessment,265
+clinical assessment,215
+clinical assessment,320
+clinical assessment,139
+clinical assessment,285
+clinical assessment,510
+clinical assessment,233
+clinical assessment,555
+clinical assessment,374
+clinical assessment,500
+clinical assessment,250
+clinical assessment,305
+clinical assessment,520
+clinical assessment,345
+clinical assessment,200
+clinical assessment,435
+clinical assessment,335
+clinical assessment,430
+clinical assessment,775
+clinical assessment,645
+clinical assessment,215
+clinical assessment,273
+clinical assessment,315
+clinical assessment,279
+clinical assessment,347
+clinical assessment,343
+clinical assessment,220
+clinical assessment,547
+clinical assessment,228
+clinical assessment,320
+clinical assessment,891
+clinical assessment,521
+clinical assessment,366
+clinical assessment,321
+clinical assessment,146
+clinical assessment,175
+clinical assessment,180
+clinical assessment,496
+clinical assessment,250
+clinical assessment,244
+clinical assessment,187
+clinical assessment,239
+clinical assessment,187
+clinical assessment,226
+clinical assessment,360
+clinical assessment,383
+clinical assessment,199
+clinical assessment,415
+clinical assessment,199
+clinical assessment,478
+clinical assessment,350
+clinical assessment,332
+clinical assessment,473
+clinical assessment,237
+clinical assessment,230
+clinical assessment,208
+clinical assessment,351
+clinical assessment,210
+clinical assessment,259
+clinical assessment,534
+clinical assessment,295
+clinical assessment,550
+clinical assessment,250
+clinical assessment,371
+clinical assessment,641
+clinical assessment,408
+clinical assessment,535
+clinical assessment,253
+clinical assessment,597
+clinical assessment,407
+clinical assessment,266
+clinical assessment,299
+clinical assessment,424
+clinical assessment,765
+clinical assessment,272
+clinical assessment,493
+clinical assessment,263
+clinical assessment,310
+clinical assessment,514
+clinical assessment,312
+clinical assessment,277
+combined,180
+combined,180
+combined,190
+combined,320
+combined,400
+vaccination,136
+vaccination,154
+vaccination,167
+vaccination,210
+vaccination,197
+vaccination,266
+vaccination,374
+vaccination,148
+vaccination,282
+vaccination,150
+vaccination,313
+vaccination,158
+vaccination,207
+vaccination,163
+vaccination,390
+vaccination,254
+vaccination,210
+vaccination,238
+vaccination,222
+vaccination,229
+vaccination,233
+vaccination,311
+vaccination,422
+vaccination,199
+vaccination,203
+vaccination,217
+vaccination,228
+vaccination,303
+clinical assessment,304
+clinical assessment,248
+clinical assessment,236
+clinical assessment,483
+clinical assessment,295
+clinical assessment,244
+clinical assessment,351
+clinical assessment,227
+clinical assessment,138
+clinical assessment,148
+clinical assessment,331
+clinical assessment,296
+clinical assessment,339
+clinical assessment,332
+clinical assessment,364
+clinical assessment,283
+clinical assessment,391
+clinical assessment,495
+clinical assessment,450
+clinical assessment,207
+clinical assessment,408
+clinical assessment,340
+clinical assessment,169
+clinical assessment,415
+clinical assessment,459
+clinical assessment,267
+clinical assessment,310
+clinical assessment,427
+registration,73
+registration,88
+registration,43
+registration,153
+registration,83
+registration,63
+registration,103
+registration,40
+registration,112
+registration,157
+registration,63
+registration,66
+registration,105
+registration,61
+registration,60
+registration,92
+registration,134
+registration,81
+registration,73
+registration,94
+registration,101
+registration,107
+registration,115
+registration,124
+registration,91
+registration,98
+registration,89
+registration,106
+registration,63
+registration,90
+registration,98
+registration,71
+registration,65
+registration,113
+registration,92
+registration,74
+registration,94
+registration,115
+registration,88
+registration,141
+registration,112
+registration,87
+registration,167
+registration,66
+registration,70
+registration,138
+registration,74
+registration,114
+registration,79
+registration,87
+registration,59
+registration,97
+registration,71
+registration,44
+registration,157
+registration,135
+registration,63
+registration,65
+registration,117
+registration,109
+registration,70
+registration,58
+registration,70
+registration,70
+registration,63
+registration,69
+registration,66
+registration,53
+registration,67
+registration,61
+registration,103
+registration,111
+registration,62
+registration,89
+registration,57
+registration,67
+registration,54
+registration,54
+registration,42
+registration,122
+registration,152
+registration,57
+registration,86
+registration,78
+registration,111
+registration,77
+registration,71
+registration,79
+registration,83
+combined,294
+combined,316
+combined,235
+combined,269
+combined,325
+combined,178
+combined,396
+combined,755
+combined,220
+combined,440
+combined,381
+combined,464
+combined,380
+combined,470
+combined,285
+combined,367
+combined,354
+combined,1027
+combined,550
+combined,277
+combined,390
+combined,370
+combined,380
+combined,495
+combined,664
+combined,373
+combined,563
+combined,480
+combined,642
+combined,598
+combined,671
+combined,450
+combined,300
+combined,456
+combined,304
+combined,345
+combined,424
+combined,428
+combined,214
+combined,199
+combined,141
+combined,360
+combined,256
+combined,329
+combined,279
+combined,239
+combined,381
